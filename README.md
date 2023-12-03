@@ -1,6 +1,4 @@
 # Matrix-Operations-C-
-An implementation of matrix operations with vectors 
-
 This C++ program performs basic matrix operations, including matrix addition, subtraction, and multiplication. It uses vectors to represent matrices and provides functions for user input, matrix addition, subtraction, and multiplication.
 
 ## Features
